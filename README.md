@@ -27,6 +27,7 @@ Welcome to my digital domain. I am a developer and security researcher who break
 *"A ninja must see through deception... but a hacker just intercepts the packets."*
 
 **[Core Logic & Architecture]**
+
 `Python`       [██████████] 100% - Grandmaster
 `Java`         [████████░░] 80%  - Advanced
 `C`            [██████░░░░] 60%  - Intermediate

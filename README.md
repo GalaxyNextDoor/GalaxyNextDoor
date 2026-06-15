@@ -20,7 +20,9 @@ Welcome to my digital domain. I am a developer and security researcher who break
 
 *"A ninja must see through deception... but a hacker just intercepts the packets."*
 
-**[Core Logic & Architecture]** `Python` | `Java` | `C` | `C++` | `JavaScript` | `HTML` | `CSS` | `MySQL` | `NextJS` | `ReactJS` |  
+**[Core Logic & Architecture]** 
+
+`Python` | `Java` | `C` | `C++` | `JavaScript` | `HTML` | `CSS` | `MySQL` | `NextJS` | `ReactJS` |  
 
 **[Security & Reconnaissance Artifacts]**
 * **Vision & Mapping:** `Nmap` • `Gobuster` • `Wireshark`

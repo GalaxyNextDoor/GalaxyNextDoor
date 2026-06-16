@@ -29,14 +29,23 @@ Welcome to my digital domain. I am a developer and security researcher who break
 **[Core Logic & Architecture]**
 
 `Python`       [██████████] 100% - Grandmaster
+
 `Java`         [████████░░] 80%  - Advanced
+
 `C`            [██████░░░░] 60%  - Intermediate
+
 `C++`          [███████░░░] 70%  - Solid
+
 `JavaScript`   [█████████░] 90%  - Expert
+
 `ReactJS`      [████████░░] 80%  - Advanced
+
 `NextJS`       [███████░░░] 70%  - Solid
+
 `HTML`         [██████████] 100% - Grandmaster
+
 `CSS`          [████████░░] 80%  - Advanced
+
 `MySQL`        [███████░░░] 70%  - Solid
 
 **[Security & Reconnaissance Artifacts]**
